@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: pink;
+  }
+  
+  h1 {
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+  
+  img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+  }
+  
+  #texto {
+    font-size: 30px;
+    color: red;
+    margin: 20px;
+  }
